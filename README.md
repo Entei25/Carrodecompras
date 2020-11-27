@@ -1,4 +1,4 @@
 ## Carro de Compras
 
-tuturial de @yasnaret para la realizacion
+tutorial de @yasnaret para la realizacion
 
